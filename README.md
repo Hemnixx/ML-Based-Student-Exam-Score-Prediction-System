@@ -210,13 +210,4 @@ print("Predicted Math Score:", result[0])
 **Neeraj Kumar Gupta**
 B.Tech (ECE), NIT Kurukshetra
 
----
-
-## ⭐ Acknowledgements
-
-* Dataset inspired by student performance datasets used for educational analytics.
-* Scikit-learn & open-source ML community.
-
-
-
-sab bana deta hoon 😄
+-
